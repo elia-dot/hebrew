@@ -84,9 +84,9 @@ export default [
     id: 10,
     question: 'ישנתי הלילה על הספה',
     answers: [
-      { id: 1, text: 'עבר', correct: false },
+      { id: 1, text: 'עבר', correct: true },
       { id: 2, text: 'הווה', correct: false },
-      { id: 3, text: 'עתיד', correct: true },
+      { id: 3, text: 'עתיד', correct: false },
     ],
   },
 ];

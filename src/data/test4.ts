@@ -3,7 +3,7 @@ export default [
     id: 1,
     question: 'אשמור',
     answers: [
-      { id: 1, text: 'שמר', correct: true },
+      { id: 1, text: 'שמרתי', correct: true },
       { id: 2, text: 'לשמור', correct: false },
       { id: 3, text: 'שומר', correct: false },
     ],
